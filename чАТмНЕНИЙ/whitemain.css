@@ -1,0 +1,77 @@
+body{
+    background-attachment: fixed;
+    background-image: url(imgl/fon-max.jpg) no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+img{
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    transition-duration: 0.5s
+}
+a:hover{
+    text-decoration: underline;
+    color: #b5b2b2
+}
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border-style: groove;
+    border-width: 1px;   
+}
+.img-chat-mneniy{
+    width: 250px;
+    
+}
+.img-chat-mneniy:hover{
+    background-image: url(imgl/fon-2.jpg);
+}
+.headline{
+    font-weight: 400;
+}
+.sub-headline{
+    font-weight: 300
+}
+.article{
+    margin: 0 auto;
+    max-width: 600px;
+}
+h2{
+    font-weight: 400;
+    
+}
+.h2{
+    font-size: 30px;
+}
+h6{
+    font-weight: 400;
+    font-size: 25px
+}
+details{
+    font-size: 20px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
